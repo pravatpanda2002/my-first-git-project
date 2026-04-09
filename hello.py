@@ -9,3 +9,4 @@ print("This file is tracked by Git.")
 # Added today — skills list
 skills = ["Python", "Git", "GitHub", "AWS", "Docker"]
 print(f"My skills: {', '.join(skills)}")
+print ("abcd")
